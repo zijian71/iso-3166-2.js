@@ -3,53 +3,53 @@ Spain,ES-AB,Albacete,Province,ES
 Spain,ES-AL,Almería,Province,ES
 Spain,ES-AN,Andalucía,Autonomous community,ES
 Spain,ES-AR,Aragón,Autonomous community,ES
-Spain,ES-AS,"Asturias, Principado de",Autonomous community,ES
+Spain,ES-AS,Asturias,Autonomous community,ES
 Spain,ES-AV,Ávila,Province,ES
-Spain,ES-B,Barcelona [Barcelona],Province,ES
+Spain,ES-B,Barcelona,Province,ES
 Spain,ES-BA,Badajoz,Province,ES
 Spain,ES-BI,Bizkaia,Province,ES
 Spain,ES-BU,Burgos,Province,ES
-Spain,ES-C,A Coruña [La Coruña],Province,ES
+Spain,ES-C,A Coruña,Province,ES
 Spain,ES-CA,Cádiz,Province,ES
 Spain,ES-CB,Cantabria,Autonomous community,ES
 Spain,ES-CC,Cáceres,Province,ES
 Spain,ES-CE,Ceuta,Autonomous city in north africa,ES
 Spain,ES-CL,Castilla y León,Autonomous community,ES
 Spain,ES-CM,Castilla-La Mancha,Autonomous community,ES
-Spain,ES-CN,Canarias,Autonomous community,ES
+Spain,ES-CN,Canary Islands,Autonomous community,ES
 Spain,ES-CO,Córdoba,Province,ES
 Spain,ES-CR,Ciudad Real,Province,ES
 Spain,ES-CS,Castellón,Province,ES
-Spain,ES-CT,Catalunya [Cataluña],Autonomous community,ES
+Spain,ES-CT,Catalonia,Autonomous community,ES
 Spain,ES-CU,Cuenca,Province,ES
 Spain,ES-EX,Extremadura,Autonomous community,ES
-Spain,ES-GA,Galicia [Galicia],Autonomous community,ES
+Spain,ES-GA,Galicia,Autonomous community,ES
 Spain,ES-GC,Las Palmas,Province,ES
-Spain,ES-GI,Girona [Gerona],Province,ES
+Spain,ES-GI,Girona,Province,ES
 Spain,ES-GR,Granada,Province,ES
 Spain,ES-GU,Guadalajara,Province,ES
 Spain,ES-H,Huelva,Province,ES
 Spain,ES-HU,Huesca,Province,ES
-Spain,ES-IB,Illes Balears [Islas Baleares],Autonomous community,ES
+Spain,ES-IB,Balearic Islands,Autonomous community,ES
 Spain,ES-J,Jaén,Province,ES
-Spain,ES-L,Lleida [Lérida],Province,ES
+Spain,ES-L,Lleida,Province,ES
 Spain,ES-LE,León,Province,ES
 Spain,ES-LO,La Rioja,Province,ES
-Spain,ES-LU,Lugo [Lugo],Province,ES
+Spain,ES-LU,Lugo,Province,ES
 Spain,ES-M,Madrid,Province,ES
 Spain,ES-MA,Málaga,Province,ES
-Spain,ES-MC,"Murcia, Región de",Autonomous community,ES
-Spain,ES-MD,"Madrid, Comunidad de",Autonomous community,ES
+Spain,ES-MC,Murcia,Autonomous community,ES
+Spain,ES-MD,Madrid,Autonomous community,ES
 Spain,ES-ML,Melilla,Autonomous city in north africa,ES
 Spain,ES-MU,Murcia,Province,ES
 Spain,ES-NA,Navarra,Province,ES
-Spain,ES-NC,"Navarra, Comunidad Foral de",Autonomous community,ES
+Spain,ES-NC,Navarra,Autonomous community,ES
 Spain,ES-O,Asturias,Province,ES
-Spain,ES-OR,Ourense [Orense],Province,ES
+Spain,ES-OR,Ourense,Province,ES
 Spain,ES-P,Palencia,Province,ES
-Spain,ES-PM,Illes Balears [Islas Baleares],Province,ES
-Spain,ES-PO,Pontevedra [Pontevedra],Province,ES
-Spain,ES-PV,País Vasco,Autonomous community,ES
+Spain,ES-PM,Balearic Islands,Province,ES
+Spain,ES-PO,Pontevedra,Province,ES
+Spain,ES-PV,Basque Country,Autonomous community,ES
 Spain,ES-RI,La Rioja,Autonomous community,ES
 Spain,ES-S,Cantabria,Province,ES
 Spain,ES-SA,Salamanca,Province,ES
@@ -57,13 +57,13 @@ Spain,ES-SE,Sevilla,Province,ES
 Spain,ES-SG,Segovia,Province,ES
 Spain,ES-SO,Soria,Province,ES
 Spain,ES-SS,Gipuzkoa,Province,ES
-Spain,ES-T,Tarragona [Tarragona],Province,ES
+Spain,ES-T,Tarragona,Province,ES
 Spain,ES-TE,Teruel,Province,ES
 Spain,ES-TF,Santa Cruz de Tenerife,Province,ES
 Spain,ES-TO,Toledo,Province,ES
 Spain,ES-V,Valencia,Province,ES
 Spain,ES-VA,Valladolid,Province,ES
-Spain,ES-VC,"Valenciana, Comunidad",Autonomous community,ES
+Spain,ES-VC,Valencian Community,Autonomous community,ES
 Spain,ES-VI,Álava,Province,ES
 Spain,ES-Z,Zaragoza,Province,ES
 Spain,ES-ZA,Zamora,Province,ES

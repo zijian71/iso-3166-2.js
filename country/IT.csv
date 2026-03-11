@@ -1,23 +1,23 @@
-Italy,IT-21,Piemonte,Region,IT
+Italy,IT-21,Piedmont,Region,IT
 Italy,IT-23,Valle d'Aosta,Autonomous region,IT
-Italy,IT-25,Lombardia,Region,IT
+Italy,IT-25,Lombardy,Region,IT
 Italy,IT-32,Trentino-Alto Adige,Autonomous region,IT
 Italy,IT-34,Veneto,Region,IT
 Italy,IT-36,Friuli Venezia Giulia,Autonomous region,IT
 Italy,IT-42,Liguria,Region,IT
 Italy,IT-45,Emilia-Romagna,Region,IT
-Italy,IT-52,Toscana,Region,IT
+Italy,IT-52,Tuscany,Region,IT
 Italy,IT-55,Umbria,Region,IT
 Italy,IT-57,Marche,Region,IT
 Italy,IT-62,Lazio,Region,IT
 Italy,IT-65,Abruzzo,Region,IT
 Italy,IT-67,Molise,Region,IT
 Italy,IT-72,Campania,Region,IT
-Italy,IT-75,Puglia,Region,IT
+Italy,IT-75,Apulia,Region,IT
 Italy,IT-77,Basilicata,Region,IT
 Italy,IT-78,Calabria,Region,IT
-Italy,IT-82,Sicilia,Autonomous region,IT
-Italy,IT-88,Sardegna,Autonomous region,IT
+Italy,IT-82,Sicily,Autonomous region,IT
+Italy,IT-88,Sardinia,Autonomous region,IT
 Italy,IT-AG,Agrigento,Free municipal consortium,IT
 Italy,IT-AL,Alessandria,Province,IT
 Italy,IT-AN,Ancona,Province,IT
@@ -53,10 +53,10 @@ Italy,IT-EN,Enna,Free municipal consortium,IT
 Italy,IT-FC,Forlì-Cesena,Province,IT
 Italy,IT-FE,Ferrara,Province,IT
 Italy,IT-FG,Foggia,Province,IT
-Italy,IT-FI,Firenze,Metropolitan city,IT
+Italy,IT-FI,Florence,Metropolitan city,IT
 Italy,IT-FM,Fermo,Province,IT
 Italy,IT-FR,Frosinone,Province,IT
-Italy,IT-GE,Genova,Metropolitan city,IT
+Italy,IT-GE,Genoa,Metropolitan city,IT
 Italy,IT-GO,Gorizia,Decentralized regional entity,IT
 Italy,IT-GR,Grosseto,Province,IT
 Italy,IT-IM,Imperia,Province,IT
@@ -71,12 +71,12 @@ Italy,IT-LU,Lucca,Province,IT
 Italy,IT-MB,Monza e Brianza,Province,IT
 Italy,IT-MC,Macerata,Province,IT
 Italy,IT-ME,Messina,Metropolitan city,IT
-Italy,IT-MI,Milano,Metropolitan city,IT
+Italy,IT-MI,Milan,Metropolitan city,IT
 Italy,IT-MN,Mantova,Province,IT
 Italy,IT-MO,Modena,Province,IT
 Italy,IT-MS,Massa-Carrara,Province,IT
 Italy,IT-MT,Matera,Province,IT
-Italy,IT-NA,Napoli,Metropolitan city,IT
+Italy,IT-NA,Naples,Metropolitan city,IT
 Italy,IT-NO,Novara,Province,IT
 Italy,IT-NU,Nuoro,Province,IT
 Italy,IT-OG,Ogliastra,Province,IT
@@ -84,7 +84,7 @@ Italy,IT-OR,Oristano,Province,IT
 Italy,IT-OT,Olbia-Tempio,Province,IT
 Italy,IT-PA,Palermo,Metropolitan city,IT
 Italy,IT-PC,Piacenza,Province,IT
-Italy,IT-PD,Padova,Province,IT
+Italy,IT-PD,Padua,Province,IT
 Italy,IT-PE,Pescara,Province,IT
 Italy,IT-PG,Perugia,Province,IT
 Italy,IT-PI,Pisa,Province,IT
@@ -100,21 +100,21 @@ Italy,IT-RC,Reggio Calabria,Metropolitan city,IT
 Italy,IT-RE,Reggio Emilia,Province,IT
 Italy,IT-RG,Ragusa,Free municipal consortium,IT
 Italy,IT-RI,Rieti,Province,IT
-Italy,IT-RM,Roma,Metropolitan city,IT
+Italy,IT-RM,Rome,Metropolitan city,IT
 Italy,IT-RN,Rimini,Province,IT
 Italy,IT-RO,Rovigo,Province,IT
 Italy,IT-SA,Salerno,Province,IT
 Italy,IT-SI,Siena,Province,IT
 Italy,IT-SO,Sondrio,Province,IT
 Italy,IT-SP,La Spezia,Province,IT
-Italy,IT-SR,Siracusa,Free municipal consortium,IT
+Italy,IT-SR,Syracuse,Free municipal consortium,IT
 Italy,IT-SS,Sassari,Province,IT
-Italy,IT-SU,Sud Sardegna,Province,IT
+Italy,IT-SU,South Sardinia,Province,IT
 Italy,IT-SV,Savona,Province,IT
 Italy,IT-TA,Taranto,Province,IT
 Italy,IT-TE,Teramo,Province,IT
 Italy,IT-TN,Trento,Autonomous province,IT
-Italy,IT-TO,Torino,Metropolitan city,IT
+Italy,IT-TO,Turin,Metropolitan city,IT
 Italy,IT-TP,Trapani,Free municipal consortium,IT
 Italy,IT-TR,Terni,Province,IT
 Italy,IT-TS,Trieste,Decentralized regional entity,IT
@@ -123,7 +123,7 @@ Italy,IT-UD,Udine,Decentralized regional entity,IT
 Italy,IT-VA,Varese,Province,IT
 Italy,IT-VB,Verbano-Cusio-Ossola,Province,IT
 Italy,IT-VC,Vercelli,Province,IT
-Italy,IT-VE,Venezia,Metropolitan city,IT
+Italy,IT-VE,Venice,Metropolitan city,IT
 Italy,IT-VI,Vicenza,Province,IT
 Italy,IT-VR,Verona,Province,IT
 Italy,IT-VS,Medio Campidano,Province,IT

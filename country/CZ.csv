@@ -1,0 +1,131 @@
+Czechia,CZ-10,"Praha, Hlavní město",Capital city,CZ
+Czechia,CZ-101,Praha 1,District,CZ
+Czechia,CZ-102,Praha 2,District,CZ
+Czechia,CZ-103,Praha 3,District,CZ
+Czechia,CZ-104,Praha 4,District,CZ
+Czechia,CZ-105,Praha 5,District,CZ
+Czechia,CZ-106,Praha 6,District,CZ
+Czechia,CZ-107,Praha 7,District,CZ
+Czechia,CZ-108,Praha 8,District,CZ
+Czechia,CZ-109,Praha 9,District,CZ
+Czechia,CZ-10A,Praha 10,District,CZ
+Czechia,CZ-10B,Praha 11,District,CZ
+Czechia,CZ-10C,Praha 12,District,CZ
+Czechia,CZ-10D,Praha 13,District,CZ
+Czechia,CZ-10E,Praha 14,District,CZ
+Czechia,CZ-10F,Praha 15,District,CZ
+Czechia,CZ-20,Středočeský kraj,Region,CZ
+Czechia,CZ-201,Benešov,District,CZ
+Czechia,CZ-202,Beroun,District,CZ
+Czechia,CZ-203,Kladno,District,CZ
+Czechia,CZ-204,Kolín,District,CZ
+Czechia,CZ-205,Kutná Hora,District,CZ
+Czechia,CZ-206,Mělník,District,CZ
+Czechia,CZ-207,Mladá Boleslav,District,CZ
+Czechia,CZ-208,Nymburk,District,CZ
+Czechia,CZ-209,Praha-východ,District,CZ
+Czechia,CZ-20A,Praha-západ,District,CZ
+Czechia,CZ-20B,Příbram,District,CZ
+Czechia,CZ-20C,Rakovník,District,CZ
+Czechia,CZ-31,Jihočeský kraj,Region,CZ
+Czechia,CZ-311,České Budějovice,District,CZ
+Czechia,CZ-312,Český Krumlov,District,CZ
+Czechia,CZ-313,Jindřichův Hradec,District,CZ
+Czechia,CZ-314,Písek,District,CZ
+Czechia,CZ-315,Prachatice,District,CZ
+Czechia,CZ-316,Strakonice,District,CZ
+Czechia,CZ-317,Tábor,District,CZ
+Czechia,CZ-32,Plzeňský kraj,Region,CZ
+Czechia,CZ-321,Domažlice,District,CZ
+Czechia,CZ-322,Klatovy,District,CZ
+Czechia,CZ-323,Plzeň-město,District,CZ
+Czechia,CZ-324,Plzeň-jih,District,CZ
+Czechia,CZ-325,Plzeň-sever,District,CZ
+Czechia,CZ-326,Rokycany,District,CZ
+Czechia,CZ-327,Tachov,District,CZ
+Czechia,CZ-41,Karlovarský kraj,Region,CZ
+Czechia,CZ-411,Cheb,District,CZ
+Czechia,CZ-412,Karlovy Vary,District,CZ
+Czechia,CZ-413,Sokolov,District,CZ
+Czechia,CZ-42,Ústecký kraj,Region,CZ
+Czechia,CZ-421,Děčín,District,CZ
+Czechia,CZ-422,Chomutov,District,CZ
+Czechia,CZ-423,Litoměřice,District,CZ
+Czechia,CZ-424,Louny,District,CZ
+Czechia,CZ-425,Most,District,CZ
+Czechia,CZ-426,Teplice,District,CZ
+Czechia,CZ-427,Ústí nad Labem,District,CZ
+Czechia,CZ-51,Liberecký kraj,Region,CZ
+Czechia,CZ-511,Česká Lípa,District,CZ
+Czechia,CZ-512,Jablonec nad Nisou,District,CZ
+Czechia,CZ-513,Liberec,District,CZ
+Czechia,CZ-514,Semily,District,CZ
+Czechia,CZ-52,Královéhradecký kraj,Region,CZ
+Czechia,CZ-521,Hradec Králové,District,CZ
+Czechia,CZ-522,Jičín,District,CZ
+Czechia,CZ-523,Náchod,District,CZ
+Czechia,CZ-524,Rychnov nad Kněžnou,District,CZ
+Czechia,CZ-525,Trutnov,District,CZ
+Czechia,CZ-53,Pardubický kraj,Region,CZ
+Czechia,CZ-531,Chrudim,District,CZ
+Czechia,CZ-532,Pardubice,District,CZ
+Czechia,CZ-533,Svitavy,District,CZ
+Czechia,CZ-534,Ústí nad Orlicí,District,CZ
+Czechia,CZ-611,Havlíčkův Brod,District,CZ
+Czechia,CZ-612,Jihlava,District,CZ
+Czechia,CZ-613,Pelhřimov,District,CZ
+Czechia,CZ-614,Třebíč,District,CZ
+Czechia,CZ-615,Žd'ár nad Sázavou,District,CZ
+Czechia,CZ-621,Blansko,District,CZ
+Czechia,CZ-622,Brno-město,District,CZ
+Czechia,CZ-623,Brno-venkov,District,CZ
+Czechia,CZ-624,Břeclav,District,CZ
+Czechia,CZ-625,Hodonín,District,CZ
+Czechia,CZ-626,Vyškov,District,CZ
+Czechia,CZ-627,Znojmo,District,CZ
+Czechia,CZ-63,Kraj Vysočina,Region,CZ
+Czechia,CZ-631,Havlíčkův Brod,District,CZ
+Czechia,CZ-632,Jihlava,District,CZ
+Czechia,CZ-633,Pelhřimov,District,CZ
+Czechia,CZ-634,Třebíč,District,CZ
+Czechia,CZ-635,Žďár nad Sázavou,District,CZ
+Czechia,CZ-64,Jihomoravský kraj,Region,CZ
+Czechia,CZ-641,Blansko,District,CZ
+Czechia,CZ-642,Brno-město,District,CZ
+Czechia,CZ-643,Brno-venkov,District,CZ
+Czechia,CZ-644,Břeclav,District,CZ
+Czechia,CZ-645,Hodonín,District,CZ
+Czechia,CZ-646,Vyškov,District,CZ
+Czechia,CZ-647,Znojmo,District,CZ
+Czechia,CZ-71,Olomoucký kraj,Region,CZ
+Czechia,CZ-711,Jeseník,District,CZ
+Czechia,CZ-712,Olomouc,District,CZ
+Czechia,CZ-713,Prostějov,District,CZ
+Czechia,CZ-714,Přerov,District,CZ
+Czechia,CZ-715,Šumperk,District,CZ
+Czechia,CZ-72,Zlínský kraj,Region,CZ
+Czechia,CZ-721,Kroměříž,District,CZ
+Czechia,CZ-722,Uherské Hradiště,District,CZ
+Czechia,CZ-723,Vsetín,District,CZ
+Czechia,CZ-724,Zlín,District,CZ
+Czechia,CZ-80,Moravskoslezský kraj,Region,CZ
+Czechia,CZ-801,Bruntál,District,CZ
+Czechia,CZ-802,Frýdek-Místek,District,CZ
+Czechia,CZ-803,Karviná,District,CZ
+Czechia,CZ-804,Nový Jičín,District,CZ
+Czechia,CZ-805,Opava,District,CZ
+Czechia,CZ-806,Ostrava-město,District,CZ
+Czechia,CZ-JC,Jihočeský kraj,Region,CZ
+Czechia,CZ-JM,Jihomoravský kraj,Region,CZ
+Czechia,CZ-KA,Karlovarský kraj,Region,CZ
+Czechia,CZ-KR,Královéhradecký kraj,Region,CZ
+Czechia,CZ-LI,Liberecký kraj,Region,CZ
+Czechia,CZ-MO,Moravskoslezský kraj,Region,CZ
+Czechia,CZ-OL,Olomoucký kraj,Region,CZ
+Czechia,CZ-PA,Pardubický kraj,Region,CZ
+Czechia,CZ-PL,Plzeňský kraj,Region,CZ
+Czechia,CZ-PR,"Praha, hlavní mešto",Region,CZ
+Czechia,CZ-ST,Středočeský kraj,Region,CZ
+Czechia,CZ-US,Ústecký kraj,Region,CZ
+Czechia,CZ-VY,Vysočina,Region,CZ
+Czechia,CZ-ZL,Zlínský kraj,Region,CZ
